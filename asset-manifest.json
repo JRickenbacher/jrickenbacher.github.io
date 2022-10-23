@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.51a6d0c3.css",
-    "main.js": "/static/js/main.37c9a499.js",
+    "main.js": "/static/js/main.d64b7ed6.js",
     "static/js/787.e9880f98.chunk.js": "/static/js/787.e9880f98.chunk.js",
     "static/media/Analog_Heartbeat_Sensor.jpg": "/static/media/Analog_Heartbeat_Sensor.e27ab94c6c4335d0fc38.jpg",
     "static/media/ENGS_21_Keyboard_angle.JPG": "/static/media/ENGS_21_Keyboard_angle.b0a6641932e75477fd17.JPG",
     "static/media/Tetris_Start.jpg": "/static/media/Tetris_Start.d3d9407b1c22ea62fbd7.jpg",
     "index.html": "/index.html",
     "main.51a6d0c3.css.map": "/static/css/main.51a6d0c3.css.map",
-    "main.37c9a499.js.map": "/static/js/main.37c9a499.js.map",
+    "main.d64b7ed6.js.map": "/static/js/main.d64b7ed6.js.map",
     "787.e9880f98.chunk.js.map": "/static/js/787.e9880f98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51a6d0c3.css",
-    "static/js/main.37c9a499.js"
+    "static/js/main.d64b7ed6.js"
   ]
 }
